@@ -2,9 +2,9 @@
 ## Lab Experiment 1 – Basic Programming Using Java
 
 ### Student Details
-- **Name:** ____________________
-- **Roll No.:** ____________________
-- **Class/Section:** ____________________
+- **Name:** Prabhjot Singh
+- **Roll No.:** 1024170008
+- **Class/Section:** 3rd year CSE
 - **Subject:** UCS553 – Enterprise Web Application
 
 ---
